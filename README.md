@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Fardeen S Khadri!  
 
 🎓 **Python Developer | ECE Undergraduate | Tech Enthusiast**  
-📍 Bengaluru, India | **Versatile Developer**  
+📍 Bengaluru, India | **Python Developer**  
 
 ---
 
