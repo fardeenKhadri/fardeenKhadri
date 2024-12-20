@@ -1,6 +1,8 @@
 
 # 👋 Hi, I'm Fardeen S Khadri!  
 
+![My Photo](me.jpg)
+
 🎓 **Python Developer | ECE Undergraduate | Tech Enthusiast**  
 📍 Bengaluru, India | **Python Developer**  
 
