@@ -1,6 +1,3 @@
-Here’s a professional and engaging GitHub profile README based on your details:
-
----
 
 # 👋 Hi, I'm Fardeen S Khadri!  
 
