@@ -33,33 +33,9 @@ I'm a passionate **Python Developer** currently pursuing a Bachelor's in **Elect
 
 ---
 
-
-## 🚀 **Projects**  
-
-### [VISNAV - Visor Integrated System for Navigation](#)  
-- **Goal:** Enhance road safety for motorcyclists with real-time alerts for heavy vehicle proximity.  
-- **Technologies:** ESP32, YOLO v10, Python, Flask, IoT, Dataset Annotation  
-- **Features:** Integrated AR, GPS, crash detection, and interactive rider assistance.
-
----
-
-### [CAKES - Chromosomal Analysis Kit for Efficient Screening](#)  
-- **Goal:** Optimized YOLO algorithm for medical chromosomal analysis with a confidence level of 0.96.  
-- **Technologies:** YOLO, Flask, Python, Cytogenetics, Image Processing  
-- **Outcome:** Demonstrated teamwork and technical proficiency in medical screening.
-
----
-
-### [SHOPZEE](#)  
-- **Goal:** Provide sentiment analysis for product reviews extracted via web scraping.  
-- **Technologies:** BeautifulSoup4, Prompt Engineering, Python  
-- **Features:** Advanced algorithms for insightful decision-making.
-
----
-
 ## 🏆 **Achievements & Leadership**  
 
-- **Managing Director (Legacy Sentinel)** - Nanogram | **2024-2025**  
+- **Legacy Sentinel** - Nanogram | **2024-2025**  
 - **Core Committee Member** - Colossus | National Level Hackathon  
 - **Hackathon Finalist** - Jovian Hackathon, Aventus (2022), Refine Hackathon  
 
