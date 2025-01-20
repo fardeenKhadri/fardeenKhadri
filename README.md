@@ -1,69 +1,23 @@
+_**Hello I am FARDEEN KHADRI**_
 
-# 👋 Hi, I'm Fardeen S Khadri!  
+# 💫 About Me:
+👨‍💻 Passionate Python Developer | ECE Undergrad<br>🎓 Electronics and Communication Engineering student blending technical expertise with creativity to build scalable, user-friendly solutions.<br><br>💡 Tech Enthusiast solving real-world challenges through:<br><br>AI-powered Assistants 🤖<br>Machine Learning Models 📊<br>Electronics Projects ⚡<br>Innovative Projects 🌟<br>🚀 Always learning, coding, and contributing to shape a smarter future!
 
 
-🎓 **Python Developer | ECE Undergraduate | Tech Enthusiast**  
-📍 Bengaluru, India | **Python Developer**  
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fardeen5758) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pheonix_cqr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fardeen-khadri-58a842220) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/fardeenKhadri) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Fardeen) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AssassinSK004) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/FARDEEN) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/assassin_sk04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ramossk004) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fardeenKhadri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fardeenKhadri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fardeenKhadri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠 **About Me**  
-
-Welcome to my GitHub profile!  
-I'm a passionate **Python Developer** currently pursuing a Bachelor's in **Electronics and Communication Engineering** . My journey revolves around combining my technical knowledge and creativity to develop **scalable, user-friendly solutions**. From building **AI-powered assistants** to **machine learning models**, I love solving real-world problems using technology.  
-
----
-🌐 **Check out my portfolio:** [fardeenkhadri.github.io/portfolio](https://fardeenkhadri.github.io/portfolio)
----
-## 🌟 **Technical Expertise**  
-
-### **Programming Languages:**  
-- **Python** | **MicroPython** | **C++** | **Rust** | **Embedded C** | **SQL**  
-- **HTML** | **CSS** | **Assembly Language**
-
-### **Technologies & Tools:**  
-- **Machine Learning & Deep Learning:** YOLO, Flask, Dataset Annotation  
-- **Scraping & Automation:** Selenium, BeautifulSoup4  
-- **Operating Systems:** Windows, Red Hat Ubuntu, Mint, Kali Linux, Parrot, Fedora, Garuda  
-
-### **Key Skills:**  
-- **Leadership & Teamwork**: Proficient in leading teams and delivering collaborative results  
-- **Public Speaking**: Skilled communicator with experience managing technical events and hackathons  
-- **Analytics:** MS Power BI, Google Analytics  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fardeenKhadri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=fardeenKhadri&icon=6&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 **Achievements & Leadership**  
-
-- **Legacy Sentinel** - Nanogram | **2024-2025**  
-- **Core Committee Member** - Colossus | National Level Hackathon  
-- **Hackathon Finalist** - Jovian Hackathon, Aventus (2022), Refine Hackathon  
-
----
-
-## 📰 **Publications**  
-
-### **VISNAV - Visor Integrated System for Navigation**  
-- Tackles road safety for motorcyclists using innovative real-time alerts.  
-- Published in: [IJIRT](https://ijirt.org/47859)
-
----
-
-## 📜 **Certifications**  
-- Python | AI for India 2.0 | SQL Boot Camp  
-
----
-
-## 🔗 **Connect with Me**  
-
-- **Email:** fardeeinshakhadrii@gmail.com  
-- **LinkedIn:** [linkedin.com/in/fardeenkhadri](https://linkedin.com/in/fardeenkhadri)  
-- **GitHub:** [github.com/fardeenKhadri](https://github.com/fardeenKhadri)  
-
----
-
-## 🌟 **Let’s Collaborate!**  
-I’m always eager to work on exciting projects or engage in meaningful discussions around **AI, IoT, and application development**. Feel free to reach out or check out my repositories!  
-Currently working on building a Linux Distro
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
